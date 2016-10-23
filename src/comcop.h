@@ -1,0 +1,2 @@
+#define BACKLOG_SIZE 5
+#define BUFFER_SIZE 256
